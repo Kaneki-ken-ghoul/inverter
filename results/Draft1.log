@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: Z:\home\ken\SampleProjects\Analog\LTSpice\inverter\Draft1.net
+Start Time: Fri Sep 18 03:48:07 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.173 seconds.
+
+Files loaded:
+Z:\home\ken\SampleProjects\Analog\LTSpice\inverter\Draft1.net
+C:\users\ken\AppData\Local\LTspice\lib\cmp\standard.mos
+
